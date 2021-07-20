@@ -1,0 +1,11 @@
+S:\2021.07.16作業\7303-陳正揚-TaxCalculator\7303-陳正揚-TaxCalculator\bin\Debug\7303-陳正揚-TaxCalculator.exe.config
+S:\2021.07.16作業\7303-陳正揚-TaxCalculator\7303-陳正揚-TaxCalculator\bin\Debug\7303-陳正揚-TaxCalculator.exe
+S:\2021.07.16作業\7303-陳正揚-TaxCalculator\7303-陳正揚-TaxCalculator\bin\Debug\7303-陳正揚-TaxCalculator.pdb
+S:\2021.07.16作業\7303-陳正揚-TaxCalculator\7303-陳正揚-TaxCalculator\obj\Debug\_7303_陳正揚_TaxCalculator.Form1.resources
+S:\2021.07.16作業\7303-陳正揚-TaxCalculator\7303-陳正揚-TaxCalculator\obj\Debug\_7303_陳正揚_TaxCalculator.Properties.Resources.resources
+S:\2021.07.16作業\7303-陳正揚-TaxCalculator\7303-陳正揚-TaxCalculator\obj\Debug\7303-陳正揚-TaxCalculator.csproj.GenerateResource.cache
+S:\2021.07.16作業\7303-陳正揚-TaxCalculator\7303-陳正揚-TaxCalculator\obj\Debug\7303-陳正揚-TaxCalculator.csproj.CoreCompileInputs.cache
+S:\2021.07.16作業\7303-陳正揚-TaxCalculator\7303-陳正揚-TaxCalculator\obj\Debug\7303-陳正揚-TaxCalculator.exe
+S:\2021.07.16作業\7303-陳正揚-TaxCalculator\7303-陳正揚-TaxCalculator\obj\Debug\7303-陳正揚-TaxCalculator.pdb
+S:\2021.07.16作業\7303-陳正揚-TaxCalculator\7303-陳正揚-TaxCalculator\bin\Debug\Picture\反轉起司.png
+S:\2021.07.16作業\7303-陳正揚-TaxCalculator\7303-陳正揚-TaxCalculator\obj\Debug\7303-陳正揚-TaxCalculator.csproj.AssemblyReference.cache
